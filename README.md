@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# Foodie
+Feed the dog
